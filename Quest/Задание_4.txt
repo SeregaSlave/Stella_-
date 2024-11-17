@@ -1,0 +1,7 @@
+4.API запрос
+POST https://stellantis.autocrm.ru/site/restore-password 
+Body 
+_csrf:yWy_BI4wHvFij1A0lbDO-C0DTyJD9csKy-oNL_p-yL2xX_hH3QBVpVq5CFe42P6PamR2QXCGuk76jnx7tU36zw==
+RestorePasswordForm[email]:123@yandex.ru
+RestorePasswordForm[verifyCode]:rolifiw
+reset-password-button:
